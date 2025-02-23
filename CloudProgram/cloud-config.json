@@ -1,0 +1,21 @@
+{
+  "appSelected": {
+    "appId": "5765880207855781761",
+    "appName": "搜搜题",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      },
+      {
+        "deviceType": 5
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 1,
+    "packageType": 7,
+    "projectId": "461323198428955904",
+    "projectName": "搜搜题",
+    "siteId": "CN"
+  },
+  "teamId": "4858118"
+}
